@@ -1,0 +1,12 @@
+.contactFilterData {
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    margin-bottom: 20px;
+    font-size: 18px;
+    margin-left: 1px;
+}
+
+.contactFilterItem {
+    margin-top: 10px;
+}

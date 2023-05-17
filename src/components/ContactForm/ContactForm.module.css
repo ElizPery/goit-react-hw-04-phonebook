@@ -1,0 +1,30 @@
+.contactForm {
+    display: flex;
+    flex-direction: column;
+    border-style: solid;
+    border-color: darkgreen;
+    width: 400px;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+.contactInputData {
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    margin-bottom: 30px;
+    font-size: 18px;
+}
+
+.contactInputItem {
+    margin-top: 11px;
+}
+
+.submitNewContact {
+    width: 150px;
+    background-color: darkgreen;
+    color: white;
+    border-color: unset;
+    font-size: 15px;
+    padding: 5px;
+}
